@@ -1,0 +1,14 @@
+name: OPTools
+version: 1.0.0
+main: com.domc888.optools.OPTools
+api-version: 1.21.11
+author: domc888
+commands:
+  optools:
+    description: OPTools admin command
+    usage: /optools <give|toggle|reload>
+    permission: optools.admin
+permissions:
+  optools.admin:
+    description: Allows use of /optools
+    default: op
