@@ -1,0 +1,17 @@
+weapons:
+  stormbreaker:
+    hits_required: 3
+    lightning_damage: 6.0
+    armor_durability_damage: 15
+  eclipse_blade:
+    day:
+      speed_level: 1
+      strength_level: 1
+      fire_resistance_level: 1
+    night:
+      speed_level: 1
+      strength_level: 3
+      fire_resistance_level: 1
+armor:
+  op_set:
+    full_set_resistance_level: 1
